@@ -7,7 +7,7 @@ erfcinv
 The [inverse complementary error function][erfcinv] is defined as
 
 <div class="equation" align="center" data-raw-text="\operatorname{erfc}^{-1}(1-z) = \operatorname{erf}^{-1}(z)" data-equation="eq:inverse_complementary_error_function">
-	<img src="" alt="Inverse complementary error function.">
+	<img src="https://cdn.rawgit.com/math-io/erfcinv/e0e111637a1ab5556330a1d52a9fccf1882a5b23/docs/img/erfcinv.svg" alt="Inverse complementary error function.">
 	<br>
 </div>
 
