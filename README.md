@@ -11,7 +11,7 @@ The [inverse complementary error function][erfcinv] is defined as
 	<br>
 </div>
 
-where erf<sup>-1</sup>(*z*) is the [inverse error function][erfinv].
+where `erf^{-1}(z)` is the [inverse error function][erfinv].
 
 
 ## Installation
