@@ -51,7 +51,7 @@
   "dependencies": {
     "const-ninf-float64": "^1.0.0",
     "const-pinf-float64": "^1.0.0",
-    "math-evalrational": "git+https://github.com/math-io/evalrational.git#develop",
+    "math-evalrational": "^1.0.0",
     "math-ln": "^1.0.0",
     "math-sqrt": "^1.0.1"
   },
